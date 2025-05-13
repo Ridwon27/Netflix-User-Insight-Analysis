@@ -94,7 +94,7 @@ This analysis highlights patterns in user behaviour, subscription dynamics, and 
 ---
 
 ##  **Contributions**
-- **Ridwan:** Data sourcing and cleaning.  
+- **Ridwon:** Data sourcing and cleaning.  
 - **Moyin:** Team lead, SQL analysis supervision, and Power BI dashboard creation.  
 - **Mr. John:** SQL query execution.  
 
